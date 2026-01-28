@@ -1,6 +1,6 @@
 ### 📈 Şehir Bazlı Satış ve Kâr Analizi (Pivot)
 
-![Şehir Analizi Tablosu](pivot_table.png)
+![Şehir Analizi Tablosu](pivot_table1.png)
 
 #### **Tablo Veri Analizi ve Stratejik Aksiyon Planı:**
 
